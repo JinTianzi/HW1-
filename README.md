@@ -1,7 +1,7 @@
 # HW1-构建两层神经网络
 学号：22210980044     &ensp; &ensp; 姓名：金天姿
 
-### 直接运行“HW1 构建两层神经网络.ipynb”或者“HW1 构建两层神经网络.py”，就可以完成模型训练、调参和测试。
+### 直接运行“HW1 构建两层神经网络.ipynb”或者“HW1 构建两层神经网络.py”，就可以完成模型训练、调参和测试，并会输出最终选择的模型、模型分类准确率和可视化等。
 
 * 也可以单独进行模型训练和测试：使用model(x_train, y_train, x_test, y_test, learning_rate, hidden_size,lambda_,iters_num,batch_size)函数。
     * 输入：x_train, y_train, x_test, y_test，learning_rate（学习率），hidden_size（隐藏层大小），lambda_（L2正则化强度），iters_num（迭代次数），batch_size（一次训练所选取的样本数）。
